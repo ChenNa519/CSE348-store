@@ -1,0 +1,9 @@
+name: gameai
+channels:
+- defaults
+dependencies:
+- python=3
+- numpy
+- pip
+- pip:
+  - pygame
